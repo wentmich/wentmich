@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in dark matter and gravitational waves
-- 🌱 I’m currently learning about ghosts
+- 🌱 I’m currently learning about gravitational signatures of axions
 - 📫 Reach me at wentmich'at'umich.edu or wentzel4'at'illinois.edu
 
 <!---
